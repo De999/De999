@@ -1,4 +1,15 @@
 ### Hi there 👋
+Me Chamo  de  Denislon Bernardo 
+
+- 🔭 Atualmente não estou  trabalhando 
+- 🌱 Atualmente estou  Estudando Analise e Desenvolvimento de Sistmas 
+- 👯 I’m looking to collaborate  com projets   
+- 🤔 I’m looking for help com codigos que elaboro  
+- 💬 Ask me about ...  
+- 📫 How to reach me: celular  011937382922
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 <!--
 **De999/De999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
